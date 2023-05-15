@@ -4,16 +4,8 @@
  ##### 🌻 Pyhton Collections
  ##### 🌻 Validação de dados 
  
-
   ![Ketlynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3tyclemente&show_icons=true&theme=transparent&hide=issues)
 
-<!--
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+ <img aling = "center" alt= "Python" scr="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />         
+</div>
