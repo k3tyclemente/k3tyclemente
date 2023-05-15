@@ -1,4 +1,11 @@
 ###  Oie! Prazer me chamo Ketlynn
+ #### _Estudo atualmente Python em suas diversas aplicações_
+ ##### 🌻 Python Orientação a Objetos 
+ ##### 🌻 Pyhton Collections
+ ##### 🌻 Validação de dados 
+ 
+
+  ![Ketlynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3tyclemente&show_icons=true&theme=transparent&hide=issues)
 
 <!--
 **k3tyclemente/k3tyclemente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
