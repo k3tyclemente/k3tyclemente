@@ -1,5 +1,6 @@
 ###  Oie! Prazer me chamo Ketlynn
  #### - _Estudo atualmente Python em suas diversas aplicações_ -
+ #####   _Formada em:_
  ##### 🌻 Python Orientação a Objetos 🌻 Pyhton Collections 🌻 Validação de dados nacional
  ##### 🌻 Extração de informações URL  🌻 TDD
  
